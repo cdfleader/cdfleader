@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Sharik!
 
 ### 🖥️ Software Engineer Apprentice | Epitech Student | Tech Enthusiast
 
